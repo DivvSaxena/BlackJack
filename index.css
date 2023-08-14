@@ -3,6 +3,7 @@ body {
     background-image: url("images/table.png");
     background-size: cover;
     font-weight: bold;
+    font-size: 24px;
     color: white;
     text-align: center;
 }
