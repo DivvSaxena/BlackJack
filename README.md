@@ -1,6 +1,6 @@
 # BlackJack Game 
 
-![BlackJack](images/homepage.png)
+<img src="images/homepage.png" alt="Homepage of our game" width="500px">
 
 This is a simple implementation of the classic BlackJack game using HTML, CSS, and JavaScript. In this game, you can play as the player against the computer dealer. The goal is to get a hand value as close to 21 as possible without exceeding it , minimize your screen size for better user experience.
 
