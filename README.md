@@ -1,5 +1,5 @@
 # BlackJack Game
-<a href="https://blackjack-bydivvsaxena.netlify.app/" target="_blank">Here</a>
+## <a href="https://blackjack-bydivvsaxena.netlify.app/" target="_blank">PlayGame</a>
 
 <img src="images/homepage.png" alt="Homepage of our game" width="500px">
 
