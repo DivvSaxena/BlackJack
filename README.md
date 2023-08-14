@@ -1,4 +1,4 @@
-# BlackJack Game 
+# BlackJack Game <a href="https://blackjack-bydivvsaxena.netlify.app/" target="_blank">Here</a>
 
 <img src="images/homepage.png" alt="Homepage of our game" width="500px">
 
