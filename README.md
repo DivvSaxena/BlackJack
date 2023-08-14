@@ -6,7 +6,7 @@ This is a simple implementation of the classic BlackJack game using HTML, CSS, a
 
 ## How to Play
 
-1. Clone or download the repository to your local machine.
+1. Clone or download the repository to your local machine or play online with deployed link.
 2. Open the `index.html` file in your web browser.
 3. Click the "Deal" button to start a new game.
 4. You and the dealer will be dealt two cards each.
