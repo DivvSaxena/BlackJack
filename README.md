@@ -1,6 +1,6 @@
-# BlackJack Game in JavaScript
+# BlackJack Game 
 
-![BlackJack](blackjack-screenshot.png)
+![BlackJack](images/home.png)
 
 This is a simple implementation of the classic BlackJack game using HTML, CSS, and JavaScript. In this game, you can play as the player against the computer dealer. The goal is to get a hand value as close to 21 as possible without exceeding it.
 
@@ -26,16 +26,10 @@ This is a simple implementation of the classic BlackJack game using HTML, CSS, a
 
 The game is implemented using HTML, CSS, and JavaScript. The JavaScript code handles the game logic, including dealing cards, calculating hand values, and determining the winner. The game uses a standard deck of 52 playing cards.
 
-## Screenshots
-
-![Gameplay](gameplay-screenshot.png)
-_Enjoying a round of BlackJack._
-
 ## Credits
 
-- Card images: [SVG Deck](https://github.com/htdebeer/SVG-cards)
-- CSS styling inspiration: [Blackjack App](https://dribbble.com/shots/15120180-Blackjack-App)
-- JavaScript guidance: [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- CSS styling inspiration: Scrimba
+- JavaScript guidance: [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and Scrimba
 
 ## Acknowledgments
 
